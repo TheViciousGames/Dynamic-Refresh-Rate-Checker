@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dynamic Refresh Rate Checker</string>
+    <string name="exit">exit</string>
+    <string name="disable">Disable</string>
+</resources>
