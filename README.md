@@ -1,0 +1,1 @@
+# Dynamic-Refresh-Rate-Checker
